@@ -18,6 +18,7 @@
   "homepage": "https://github.com/nizulzaim/bulk-image-crop-resize#readme",
   "dependencies": {
     "fs": "0.0.1-security",
+    "fs-extra": "^2.1.2",
     "jimp": "^0.2.27",
     "path.join": "^1.0.0"
   }
